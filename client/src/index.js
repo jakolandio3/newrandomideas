@@ -1,7 +1,7 @@
 import Modal from './components/Modal';
 import IdeaForm from './components/IdeaForm';
 import('./css/style.css');
-import('@fortawesome/fontawesome-free/css/all.css');
+// import('@fortawesome/fontawesome-free/css/all.css');
 import IdeaList from './components/IdeaList';
 
 new Modal();
